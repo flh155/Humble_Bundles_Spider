@@ -1,5 +1,5 @@
-# Humble_Bundles_Spider
-A simple script for crawling the bundles currently on sale on Humble
+# Humble_Bundles_Spider | Humble慈善包爬虫
+A simple script for crawling the bundles currently on sale on Humble|一个简单爬取Humble Bundles当前在售的游戏慈善包脚本
 
 # Usage  
 Run the script through the command line:  `python3 app.py`, Wait for the script to finish. Final Results will be saved in a file which name like `now_sale_game_bundle_2025_09_25_17_37_50.json`, default path is `./spider_result/`
